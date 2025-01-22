@@ -9,8 +9,7 @@ Phone
 Twitter
 @chelseaburns
 
-Hi! I'm Chelsea Burns and I'm happy to have you view my portfolio.
-Let's stay connected!
+Hi! I'm Chelsea Burns and I'm happy to have you view my portfolio. Let's stay connected!
 
 Services
 Web Development
@@ -21,6 +20,7 @@ Skills
 HTML Markup your content with semantic HTML.
 CSS Layout your content visually for multiple devices.
 JavaScript Make your content more interactive, and build web applications.
+
 Work History
 UX/UI Designer XYZ Corp 3 years
 Web Developer ABC Corp 5 years

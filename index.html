@@ -115,6 +115,56 @@
                     Somewhere, NY 33333
                 </p>
             </section>
+            <section id="contactme">
+                <h2>Contact Me</h2>
+                <form action="confirmation.html" method="POST">
+                    <p>
+                    <label for="name">Name</label>
+                    <input type="text" name="name" id="name" required />
+                    </p>
+                    <p>
+                    <label for="email" name="email" id="email" required>Email</label>
+                    <input type="email" name="email" id="email" />
+                    </p>
+                    <p>
+                        <label for="reasons">Reason</label>
+                        <select name="reasons" id="reasons">
+                            <option value="jobinterview">Job Interview</option>
+                            <option value="clientproposal">Client Proposal</option>
+                            <option value="speakerbooking">Speaker Booking</option>
+                            <option value="workshoprequest">Workshop Request</option>
+                        </select>
+                    </p>
+                    <p>
+                        <label for="comments">Comments</label>
+                    </p>
+                    <p>
+                        <textarea name="comments" id="comments"></textarea>
+                    </p>
+                    <p>
+                        <fieldset>
+                            <legend>Best Contact Time</legend>
+                            <p>
+                                <label for="contacttime1">Morning</label>
+                                <input type="radio" id="contacttime1" name="contacttime" value="morning" />
+                            </p>
+                            <p>
+                                <label for="contacttime2">Afternoon</label>
+                                <input type="radio" id="contacttime2" name="contacttime" value="afternoon" />
+                            </p>
+                            <p>
+                                <label for="contacttime3">Evening</label>
+                                <input type="radio" id="contacttime3" name="contacttime" value="evening" />
+                            </p>
+                            <p>
+                                <label for="asap">ASAP</label>
+                                <input type="checkbox" id="asap" name="asap" />
+                            </p>
+                        </fieldset>
+                    </p>
+                    <button type="submit">Submit</button>
+                </form>
+            </section>
     </main>
     </body>
 </html>

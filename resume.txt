@@ -1,0 +1,36 @@
+Chelsea Burns
+
+Web Developer, UX Designer, and Speaker
+
+Website
+google.com
+Phone
+555-555-1111
+Twitter
+@chelseaburns
+
+Hi! I'm Chelsea Burns and I'm happy to have you view my portfolio.
+Let's stay connected!
+
+Services
+Web Development
+App Development
+Training
+
+Skills
+HTML Markup your content with semantic HTML.
+CSS Layout your content visually for multiple devices.
+JavaScript Make your content more interactive, and build web applications.
+Work History
+UX/UI Designer XYZ Corp 3 years
+Web Developer ABC Corp 5 years
+Carpet Cleaner 123 Inc. 2 years
+
+Portfolio
+
+Testimonials
+I love Chelsea's sessions!
+Chelsea's mentorship helped me get a job.
+
+Mailing Address
+111 Main St. Somewhere, NY 33333
